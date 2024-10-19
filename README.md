@@ -1,6 +1,6 @@
 # Taekwondo
 
--   | Chutes           | Pt-BR                     | Capoeira           | Eng
+--  | Chutes           | Pt-BR                     | Capoeira           | Eng
 :-- | :--              | :--                       | :--                | :--
 1   | **Ap Tchauligui**    | Levantamento frontal      |                    | Front Leg Raise
 2   | **Ap Tchagui**       | Chute frontal             | Ponteira           | Front kick
